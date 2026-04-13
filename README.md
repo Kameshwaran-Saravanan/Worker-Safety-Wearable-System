@@ -1,6 +1,6 @@
 
 
-# 🛡️ Worker Safety Wearable System
+#  Worker Safety Wearable System
 
 An **embedded system project** designed to improve worker safety in hazardous environments such as construction sites, factories, and mines.
 
