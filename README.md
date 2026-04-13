@@ -136,12 +136,13 @@ ELSE:
 <img width="1301" height="1599" alt="image" src="https://github.com/user-attachments/assets/575d09cf-f1c9-4f18-816d-c9002403bc91" />
 
 
-### 🟡 Gas Alert
+### 🔴 Gas Alert
 
-<img width="983" height="847" alt="image" src="https://github.com/user-attachments/assets/0ba19a02-8b34-426e-b2fc-5c8b9b5293dd" />
+<img width="1301" height="1599" alt="image" src="https://github.com/user-attachments/assets/09feaf41-1796-4bb0-be33-b252fae3b6b7" />
 
 
-### 🔴 Fall Detection
+
+### 🟡 Fall Detection 
 
 <img width="1500" height="1567" alt="image" src="https://github.com/user-attachments/assets/38443d37-de96-48dc-b135-818fcccbc5fb" />
 
