@@ -10,11 +10,11 @@ This is a **portable, real-time monitoring wearable device** that detects danger
 
 ##  Features
 
-* ✅ Detects **worker falls**
-* ✅ Monitors **hazardous gas levels**
-* ✅ Provides **instant audio + visual alerts**
-* ✅ Works **offline (no internet required)**
-* ✅ Low-cost and scalable solution
+*  Detects **worker falls**
+*  Monitors **hazardous gas levels**
+*  Provides **instant audio + visual alerts**
+*  Works **offline (no internet required)**
+*  Low-cost and scalable solution
 
 ---
 
