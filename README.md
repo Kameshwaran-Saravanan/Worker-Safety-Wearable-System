@@ -133,7 +133,7 @@ ELSE:
 
 ### 🟢 Normal Condition (Safe)
 
-<img width="1301" height="1599" alt="image" src="https://github.com/user-attachments/assets/575d09cf-f1c9-4f18-816d-c9002403bc91" />
+<img width="1375" height="1600" alt="image" src="https://github.com/user-attachments/assets/a9385a6c-3fb4-41f8-af9c-e84635940d2e" />
 
 
 ### 🔴 Gas Alert
@@ -180,30 +180,20 @@ ELSE:
 ---
 
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project demonstrates a **low-cost, real-time wearable safety system** that enhances worker protection by detecting falls and hazardous gases and providing **instant alerts without internet dependency**.
 
 ---
 
-## 👨‍💻 Authors
+##  Authors
 
 * Kameshwaran Saravanan
 * Asmita Pal
 
 ---
 
-## 📌 How to Run
-
-1. Connect all components as per circuit
-2. Upload code using Arduino IDE
-3. Power using Li-ion battery
-4. Open Serial Monitor (9600 baud)
-5. Observe system behavior
-
----
-
-## ⭐ Final Note
+##  Final Note
 
 > *A simple, scalable solution that can save lives in hazardous work environments.*
 
